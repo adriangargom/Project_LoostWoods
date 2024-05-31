@@ -8,7 +8,7 @@ This repository contains the full C# source code of the game. It does not contai
 
 # Technologies
 
-In this case, the project has been developed using the Unity game engine, and the language used in the project has been C#. All the save files of the game have been stored in JSON files, and the enemy stats have been defined inside of XML files
+In this case, the project has been developed using the Unity game engine, and the language used in the project has been C#. All the save files of the game have been stored in JSON files, and the enemy stats have been defined inside of XML files.
 
 In the other hand i have been using other tools like GIT for the version control of the project or Blender for all the models of the game.
 
@@ -28,9 +28,9 @@ The patterns implemented are the following ones:
 
 | Pattern               | Use                  |
 |:----------------------|:---------------------|
-| Observer Pattern      | This pattern has been used for notifying other observers of new changes inside an observable class with the idea of having an automatic data update system, like, for example, in the UI health bar, that is notified each time the user Health System takes damage for updating the health bar value
-| Object Pool           | I have implemented several object pooling systems for controlling in a better way the memory inside the game by limiting the quantity of instances that are generated of each one of the elements and reusing them all the time. These pooling systems have been used for all the projectiles of the game, enemies, particles and also the pickable items
-| State Machine Pattern | This design pattern has been used for managing in a much more controlled way the states of the player and all the enemies in the game. In my case i have been using a Finite State Machine, on top of the Unity animator
+| Observer Pattern      | This pattern has been used for notifying other observers of new changes inside an observable class with the idea of having an automatic data update system, like, for example, in the UI health bar, that is notified each time the user Health System takes damage for updating the health bar value|
+| Object Pool           | I have implemented several object pooling systems for controlling in a better way the memory inside the game by limiting the quantity of instances that are generated of each one of the elements and reusing them all the time. These pooling systems have been used for all the projectiles of the game, enemies, particles and also the pickable items|
+| State Machine Pattern | This design pattern has been used for managing in a much more controlled way the states of the player and all the enemies in the game. In my case i have been using a Finite State Machine, on top of the Unity animator|
 
 
 # Resources
@@ -38,17 +38,17 @@ In the following section, we can find some of the resources related to this proj
 
 ### [Game Design Document](https://docs.google.com/document/d/1yRzMrlOY9arHp1c5qdJEjqAKFTvX-puAGgSh9wGcB34/edit)
 > In the following document, I cover all the implementations of the game and the specification of all the functional
-> requirements pertaining to the development cycle of the project:
+> requirements pertaining to the development cycle of the project.
 
 ### [User Guide](https://docs.google.com/document/d/1IpntsQElbP21cBSIBbYM9Lc7lxUPbzYvdrQ6ULHa4RY/edit?usp=sharing)
-> This resource contains an explanation of how the game controls and menu work:
+> This resource contains an explanation of how the game controls and menu work.
 
 ### [Video game Demo Video](https://unity.com/es)
 > This video contains an explanation of how the game works, with all the controls and information about the menu's
 > difficulty levels...
 
 ### [Video game Executables](https://drive.google.com/drive/folders/12_EV-k7n-ccPQhsmwTfksjR1mu01KHUE?usp=sharing)
-> A link to a shared resource inside Google Drive that contains a Windows and Linux build of the game:
+> A link to a shared resource inside Google Drive that contains a Windows and Linux build of the game.
 
 ### [Promotional Video](https://www.tiktok.com/@lostwoods_game/video/7375310129727573281?is_from_webapp=1&sender_device=pc&web_id=7365518034058184224)
-> The following link contains a promotional TikTok video that we have to create for the FOL subject
+> The following link contains a promotional TikTok video that we have to create for the FOL subject.
