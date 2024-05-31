@@ -1,4 +1,4 @@
-# Project Description ⚔
+# Project Description
 The following project consists of a Unity Rogelike-style game where you have to make it through a forest full of enemies. In each one of the rooms, a randomized number of enemies and items will appear in random positions, so each one of the rooms will never be the same. During the progress of the game, the player will be able to collect gold that can be expended to buy diverse power-ups for the player and finally defeat the final boss of each round.
 
 This repository contains the full C# source code of the game. It does not contain other assets.
@@ -6,7 +6,7 @@ This repository contains the full C# source code of the game. It does not contai
 <br/>
 <img width="600" src="ScreenShot.png">
 
-# Technologies 🖥
+# Technologies
 
 In this case, the project has been developed using the Unity game engine, and the language used in the project has been C#. All the save files of the game have been stored in JSON files, and the enemy stats have been defined inside of XML files
 
@@ -20,7 +20,7 @@ In the other hand i have been using other tools like GIT for the version control
 | 3D Modeling    | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)|
 | Other Tools    | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|
 
-# Architecture 🏗
+# Architecture
 
 In this project i have felt free to implement some design patterns for optimizing and simplifying the development experience of the game itself and also for learning how to implement some of those patterns.
 
@@ -33,7 +33,7 @@ The patterns implemented are the following ones:
 | State Machine Pattern | This design pattern has been used for managing in a much more controlled way the states of the player and all the enemies in the game. In my case i have been using a Finite State Machine, on top of the Unity animator
 
 
-# Resources 🗂
+# Resources
 In the following section, we can find some of the resources related to this project. If we click on the title of the resource, we will be redirected to the resource itself:
 
 ### [Game Design Document](https://docs.google.com/document/d/1yRzMrlOY9arHp1c5qdJEjqAKFTvX-puAGgSh9wGcB34/edit)
