@@ -50,5 +50,5 @@ In the following section, we can find some of the resources related to this proj
 ### [Video game Executables](https://drive.google.com/drive/folders/12_EV-k7n-ccPQhsmwTfksjR1mu01KHUE?usp=sharing)
 > A link to a shared resource inside Google Drive that contains a Windows and Linux build of the game:
 
-### [Promotional Video](https://unity.com/es)
+### [Promotional Video](https://www.tiktok.com/@lostwoods_game/video/7375310129727573281?is_from_webapp=1&sender_device=pc&web_id=7365518034058184224)
 > The following link contains a promotional TikTok video that we have to create for the FOL subject
