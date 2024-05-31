@@ -36,11 +36,11 @@ The patterns implemented are the following ones:
 # Resources 🗂
 In the following section, we can find some of the resources related to this project. If we click on the title of the resource, we will be redirected to the resource itself:
 
-### [Game Design Document](https://unity.com/es)
+### [Game Design Document](https://docs.google.com/document/d/1yRzMrlOY9arHp1c5qdJEjqAKFTvX-puAGgSh9wGcB34/edit)
 > In the following document, I cover all the implementations of the game and the specification of all the functional
 > requirements pertaining to the development cycle of the project:
 
-### [User Guide](https://unity.com/es)
+### [User Guide](https://docs.google.com/document/d/1IpntsQElbP21cBSIBbYM9Lc7lxUPbzYvdrQ6ULHa4RY/edit?usp=sharing)
 > This resource contains an explanation of how the game controls and menu work:
 
 ### [Video game Demo Video](https://unity.com/es)
