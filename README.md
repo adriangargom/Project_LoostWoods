@@ -47,7 +47,7 @@ In the following section, we can find some of the resources related to this proj
 > This video contains an explanation of how the game works, with all the controls and information about the menu's
 > difficulty levels...
 
-### [Video game Executables](https://unity.com/es)
+### [Video game Executables](https://drive.google.com/drive/folders/12_EV-k7n-ccPQhsmwTfksjR1mu01KHUE?usp=sharing)
 > A link to a shared resource inside Google Drive that contains a Windows and Linux build of the game:
 
 ### [Promotional Video](https://unity.com/es)
