@@ -4,7 +4,9 @@ The following project consists of a Unity Rogelike-style game where you have to 
 This repository contains the full C# source code of the game. It does not contain other assets.
 
 <br/>
-<img width="600" src="ScreenShot.png">
+<img width="600" style="border-radius:10px;" src="Resources/ScreenShot.png"/>
+<br/><br/>
+
 
 # Technologies
 
@@ -43,11 +45,11 @@ In the following section, we can find some of the resources related to this proj
 ### [User Guide](https://docs.google.com/document/d/1IpntsQElbP21cBSIBbYM9Lc7lxUPbzYvdrQ6ULHa4RY/edit?usp=sharing)
 > This resource contains an explanation of how the game controls and menu work.
 
-### [Video game Demo Video](https://unity.com/es)
+### [Video Game Demo Video](https://unity.com/es)
 > This video contains an explanation of how the game works, with all the controls and information about the menu's
 > difficulty levels...
 
-### [Video game Executables](https://drive.google.com/drive/folders/12_EV-k7n-ccPQhsmwTfksjR1mu01KHUE?usp=sharing)
+### [Video Game Installers](https://drive.google.com/drive/folders/1vA-ehjJA-A4UFMJCe_rvL2sWAngSxivO?usp=sharing)
 > A link to a shared resource inside Google Drive that contains a Windows and Linux build of the game.
 
 ### [Promotional Video](https://www.tiktok.com/@lostwoods_game/video/7375310129727573281?is_from_webapp=1&sender_device=pc&web_id=7365518034058184224)
