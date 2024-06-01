@@ -5,8 +5,7 @@ This repository contains the full C# source code of the game. It does not contai
 
 <br/>
 <img width="600" style="border-radius:10px;" src="Resources/ScreenShot.png"/>
-<br/><br/>
-
+<br/>
 
 # Technologies
 
@@ -38,19 +37,19 @@ The patterns implemented are the following ones:
 # Resources
 In the following section, we can find some of the resources related to this project. If we click on the title of the resource, we will be redirected to the resource itself:
 
-### [Game Design Document](https://docs.google.com/document/d/1yRzMrlOY9arHp1c5qdJEjqAKFTvX-puAGgSh9wGcB34/edit)
+### [Game Design Document](https://docs.google.com/document/d/1yRzMrlOY9arHp1c5qdJEjqAKFTvX-puAGgSh9wGcB34/edit?usp=sharing)
 > In the following document, I cover all the implementations of the game and the specification of all the functional
 > requirements pertaining to the development cycle of the project.
 
 ### [User Guide](https://docs.google.com/document/d/1IpntsQElbP21cBSIBbYM9Lc7lxUPbzYvdrQ6ULHa4RY/edit?usp=sharing)
 > This resource contains an explanation of how the game controls and menu work.
 
-### [Video Game Demo Video](https://unity.com/es)
+### [Video Game Demo Video](https://drive.google.com/file/d/1tTf453SzjdlJIhqOk2Q4_aLY1W-KeK53/view?usp=sharing)
 > This video contains an explanation of how the game works, with all the controls and information about the menu's
 > difficulty levels...
 
-### [Video Game Installers](https://drive.google.com/drive/folders/1vA-ehjJA-A4UFMJCe_rvL2sWAngSxivO?usp=sharing)
+### [Video Game Installers](https://drive.google.com/drive/folders/1MMLYhYLn6DDuCotGgT0xlMDpjBQ8xfkh?usp=sharing)
 > A link to a shared resource inside Google Drive that contains a Windows and Linux build of the game.
 
-### [Promotional Video](https://www.tiktok.com/@lostwoods_game/video/7375310129727573281?is_from_webapp=1&sender_device=pc&web_id=7365518034058184224)
+### [Promotional Video](https://drive.google.com/file/d/1QrJTo-iL1z9ULgjRQ8w5f1nAjDXubXMU/view?usp=sharing)
 > The following link contains a promotional TikTok video that we have to create for the FOL subject.
