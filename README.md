@@ -3,10 +3,6 @@ The following project consists of a Unity Rogelike-style game where you have to 
 
 This repository contains the full C# source code of the game. It does not contain other assets.
 
-<br/>
-<img width="600" style="border-radius:10px;" src="Resources/ScreenShot.png"/>
-<br/>
-
 # Technologies
 
 In this case, the project has been developed using the Unity game engine, and the language used in the project has been C#. All the save files of the game have been stored in JSON files, and the enemy stats have been defined inside of XML files.
